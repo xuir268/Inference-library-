@@ -1,5 +1,6 @@
 #pragma once
 #include "device.h"
+#include <cstddef>
 #include <cstdint>
 
 struct Tensor {
