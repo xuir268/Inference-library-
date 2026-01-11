@@ -1,2 +1,0 @@
-/usr/bin/ar qc libml_library.a CMakeFiles/ml_library.dir/src/trace.cpp.o
-/usr/bin/ranlib libml_library.a
